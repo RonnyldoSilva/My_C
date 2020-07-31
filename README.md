@@ -11,3 +11,10 @@ int main() {
    return 0;
 }
 ```
+
+### Compile and Execute C Program
+```c
+$ gcc hello.c
+$ ./a.out
+Hello, World!
+```
